@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashanttecxar
+- 👋 Hi, I’m Prashant Rawal / curiousDeveloper everywhere
 - 👀 I’m interested in All things javaScript
 - 🌱 I’m currently learning Vue.js, graphql, postgresql
 - 💞️ I’m looking to collaborate on open source projects
